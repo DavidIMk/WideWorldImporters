@@ -1,0 +1,15 @@
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\bin\Debug\netcoreapp2.2\DimStore.deps.json
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\bin\Debug\netcoreapp2.2\DimStore.runtimeconfig.json
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\bin\Debug\netcoreapp2.2\DimStore.runtimeconfig.dev.json
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\bin\Debug\netcoreapp2.2\DimStore.dll
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\obj\Debug\netcoreapp2.2\DimStore.csprojAssemblyReference.cache
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\obj\Debug\netcoreapp2.2\DimStore.csproj.CoreCompileInputs.cache
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\obj\Debug\netcoreapp2.2\DimStore.RazorAssemblyInfo.cache
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\obj\Debug\netcoreapp2.2\DimStore.RazorAssemblyInfo.cs
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\obj\Debug\netcoreapp2.2\DimStore.AssemblyInfoInputs.cache
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\obj\Debug\netcoreapp2.2\DimStore.AssemblyInfo.cs
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\obj\Debug\netcoreapp2.2\DimStore.RazorTargetAssemblyInfo.cache
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\bin\Debug\netcoreapp2.2\DimStore.pdb
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\obj\Debug\netcoreapp2.2\DimStore.dll
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\obj\Debug\netcoreapp2.2\DimStore.pdb
+D:\LIMAX\Project LIMAX\DimStore\DimStore\DimStore\bin\Debug\netcoreapp2.2\DimStore.xml
