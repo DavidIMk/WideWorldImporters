@@ -1,0 +1,14 @@
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\bin\Debug\netcoreapp2.2\WideWorldImporters.deps.json
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\bin\Debug\netcoreapp2.2\WideWorldImporters.runtimeconfig.json
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\bin\Debug\netcoreapp2.2\WideWorldImporters.runtimeconfig.dev.json
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\bin\Debug\netcoreapp2.2\WideWorldImporters.dll
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\bin\Debug\netcoreapp2.2\WideWorldImporters.pdb
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\bin\Debug\netcoreapp2.2\DimStore.xml
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\obj\Debug\netcoreapp2.2\WideWorldImporters.csproj.CoreCompileInputs.cache
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\obj\Debug\netcoreapp2.2\WideWorldImporters.RazorAssemblyInfo.cache
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\obj\Debug\netcoreapp2.2\WideWorldImporters.RazorAssemblyInfo.cs
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\obj\Debug\netcoreapp2.2\WideWorldImporters.AssemblyInfoInputs.cache
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\obj\Debug\netcoreapp2.2\WideWorldImporters.AssemblyInfo.cs
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\obj\Debug\netcoreapp2.2\WideWorldImporters.RazorTargetAssemblyInfo.cache
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\obj\Debug\netcoreapp2.2\WideWorldImporters.dll
+D:\LIMAX\Project LIMAX\WideWorldImporters\WideWorldImporters\obj\Debug\netcoreapp2.2\WideWorldImporters.pdb
